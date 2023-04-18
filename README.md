@@ -1,2 +1,3 @@
 # Sorting_Algorithms_C-
-Code for all sorting algorithms implemented in c++.
+Code for all Sorting algorithms implemented in c++.
+We will cover 9 sorting algorithms
